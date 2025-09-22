@@ -10,27 +10,24 @@ export const verifyToken = (req, res, next) => {
     const token = authHeader?.split(" ")[1];
 
     if (!token) {
-      const { status, message } = errorMessages.TOKEN_REQUIRED;
       logger.warn("Access denied - no token provided");
-      return sendError(res, status, message);
+      return sendError(res, 403, errorMessages.TOKEN_REQUIRED);
     }
 
     console.log("Token received:", token);
     // Verify token
     jwt.verify(token, process.env.JWT_SECRET, (err, decoded) => {
       if (err) {
-        const { status, message } = errorMessages.INVALID_TOKEN;
         logger.warn("Invalid or expired token", { error: err.message });
-        return sendError(res, status, message);
+        return sendError(res, 401, errorMessages.INVALID_TOKEN);
       }
 
       req.user = decoded;
       next();
     });
   } catch (error) {
-    const { status, message } = errorMessages.SERVER_ERROR;
     logger.error("Token verification error", { error: error.message });
-    return sendError(res, status, message, error.message);
+    return sendError(res, 500, errorMessages.SERVER_ERROR, error.message);
   }
 };
 

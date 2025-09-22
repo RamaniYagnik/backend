@@ -1,0 +1,136 @@
+2025-09-22 13:33:02 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 13:33:02 [INFO]: ✅ Database connected
+2025-09-22 13:33:02 [INFO]: ✅ Tables synced
+2025-09-22 13:33:02 [INFO]: 🚀 Server running on port 4000
+2025-09-22 13:33:20 [WARN]: Invalid or expired token
+2025-09-22 13:33:20 [ERROR]: Token verification error
+2025-09-22 13:33:20 [WARN]: Invalid or expired token
+2025-09-22 13:33:20 [ERROR]: Token verification error
+2025-09-22 13:33:20 [WARN]: Invalid or expired token
+2025-09-22 13:33:20 [ERROR]: Token verification error
+2025-09-22 13:33:20 [WARN]: Invalid or expired token
+2025-09-22 13:33:20 [ERROR]: Token verification error
+2025-09-22 13:33:27 [WARN]: Invalid or expired token
+2025-09-22 13:33:27 [ERROR]: Token verification error
+2025-09-22 13:33:27 [WARN]: Invalid or expired token
+2025-09-22 13:33:27 [ERROR]: Token verification error
+2025-09-22 13:33:27 [WARN]: Invalid or expired token
+2025-09-22 13:33:27 [ERROR]: Token verification error
+2025-09-22 13:33:27 [WARN]: Invalid or expired token
+2025-09-22 13:33:27 [ERROR]: Token verification error
+2025-09-22 13:33:30 [INFO]: User logged out successfully
+2025-09-22 13:33:40 [INFO]: User logged in: yagnik@gmail.com
+2025-09-22 13:36:06 [INFO]: Category soft deleted: 14
+2025-09-22 13:42:12 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 13:42:12 [INFO]: ✅ Database connected
+2025-09-22 13:42:12 [INFO]: ✅ Tables synced
+2025-09-22 13:42:12 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:28:19 [WARN]: Invalid or expired token
+2025-09-22 14:28:19 [ERROR]: Token verification error
+2025-09-22 14:28:19 [WARN]: Invalid or expired token
+2025-09-22 14:28:19 [ERROR]: Token verification error
+2025-09-22 14:28:19 [WARN]: Invalid or expired token
+2025-09-22 14:28:19 [ERROR]: Token verification error
+2025-09-22 14:28:19 [WARN]: Invalid or expired token
+2025-09-22 14:28:19 [ERROR]: Token verification error
+2025-09-22 14:33:39 [WARN]: Invalid or expired token
+2025-09-22 14:33:39 [ERROR]: Token verification error
+2025-09-22 14:34:04 [INFO]: User logged in: user@gmail.com
+2025-09-22 14:34:33 [WARN]: Access denied - Admin/Sub-Admin only
+2025-09-22 14:35:17 [WARN]: Invalid or expired token
+2025-09-22 14:35:17 [ERROR]: Token verification error
+2025-09-22 14:35:17 [WARN]: Invalid or expired token
+2025-09-22 14:35:17 [ERROR]: Token verification error
+2025-09-22 14:35:17 [WARN]: Invalid or expired token
+2025-09-22 14:35:17 [ERROR]: Token verification error
+2025-09-22 14:35:17 [WARN]: Invalid or expired token
+2025-09-22 14:35:17 [ERROR]: Token verification error
+2025-09-22 14:35:23 [WARN]: Invalid or expired token
+2025-09-22 14:35:23 [ERROR]: Token verification error
+2025-09-22 14:35:23 [WARN]: Invalid or expired token
+2025-09-22 14:35:23 [ERROR]: Token verification error
+2025-09-22 14:35:23 [WARN]: Invalid or expired token
+2025-09-22 14:35:23 [ERROR]: Token verification error
+2025-09-22 14:35:23 [WARN]: Invalid or expired token
+2025-09-22 14:35:23 [ERROR]: Token verification error
+2025-09-22 14:35:29 [INFO]: User logged out successfully
+2025-09-22 14:35:41 [INFO]: User logged in: yagnik@gmail.com
+2025-09-22 14:40:33 [INFO]: User logged out successfully
+2025-09-22 14:40:45 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:40:45 [INFO]: ✅ Database connected
+2025-09-22 14:40:45 [INFO]: ✅ Tables synced
+2025-09-22 14:40:45 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:40:49 [WARN]: Access denied - no token provided
+2025-09-22 14:40:49 [ERROR]: Token verification error
+2025-09-22 14:40:49 [WARN]: Access denied - no token provided
+2025-09-22 14:40:49 [ERROR]: Token verification error
+2025-09-22 14:40:49 [WARN]: Access denied - no token provided
+2025-09-22 14:40:49 [ERROR]: Token verification error
+2025-09-22 14:40:49 [WARN]: Access denied - no token provided
+2025-09-22 14:40:49 [ERROR]: Token verification error
+2025-09-22 14:40:51 [WARN]: Access denied - no token provided
+2025-09-22 14:40:51 [ERROR]: Token verification error
+2025-09-22 14:40:51 [WARN]: Access denied - no token provided
+2025-09-22 14:40:51 [ERROR]: Token verification error
+2025-09-22 14:40:51 [WARN]: Access denied - no token provided
+2025-09-22 14:40:51 [ERROR]: Token verification error
+2025-09-22 14:40:51 [WARN]: Access denied - no token provided
+2025-09-22 14:40:51 [ERROR]: Token verification error
+2025-09-22 14:41:04 [INFO]: User logged in: yagnik@gmail.com
+2025-09-22 14:42:49 [WARN]: Invalid or expired token
+2025-09-22 14:42:49 [ERROR]: Token verification error
+2025-09-22 14:47:07 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:47:07 [INFO]: ✅ Database connected
+2025-09-22 14:47:08 [INFO]: ✅ Tables synced
+2025-09-22 14:47:08 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:47:48 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:47:48 [INFO]: ✅ Database connected
+2025-09-22 14:47:48 [INFO]: ✅ Tables synced
+2025-09-22 14:47:48 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:47:52 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:47:52 [INFO]: ✅ Database connected
+2025-09-22 14:47:52 [INFO]: ✅ Tables synced
+2025-09-22 14:47:52 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:48:03 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:48:03 [INFO]: ✅ Database connected
+2025-09-22 14:48:03 [INFO]: ✅ Tables synced
+2025-09-22 14:48:03 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:48:18 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:48:18 [INFO]: ✅ Database connected
+2025-09-22 14:48:18 [INFO]: ✅ Tables synced
+2025-09-22 14:48:18 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:48:20 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:48:20 [INFO]: ✅ Database connected
+2025-09-22 14:48:20 [INFO]: ✅ Tables synced
+2025-09-22 14:48:20 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:48:43 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:48:43 [INFO]: ✅ Database connected
+2025-09-22 14:48:44 [INFO]: ✅ Tables synced
+2025-09-22 14:48:44 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:48:47 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:48:47 [INFO]: ✅ Database connected
+2025-09-22 14:48:47 [INFO]: ✅ Tables synced
+2025-09-22 14:48:47 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:48:49 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:48:49 [INFO]: ✅ Database connected
+2025-09-22 14:48:50 [INFO]: ✅ Tables synced
+2025-09-22 14:48:50 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:49:02 [WARN]: Invalid or expired token
+2025-09-22 14:49:02 [INFO]: Refresh token renewed for user: yagnik@gmail.com
+2025-09-22 14:49:30 [INFO]: User logged out successfully
+2025-09-22 14:49:42 [INFO]: User logged in: yagnik@gmail.com
+2025-09-22 14:51:20 [WARN]: Invalid or expired token
+2025-09-22 14:51:20 [INFO]: Refresh token renewed for user: yagnik@gmail.com
+2025-09-22 14:52:24 [WARN]: Invalid or expired token
+2025-09-22 14:52:24 [INFO]: Refresh token renewed for user: yagnik@gmail.com
+2025-09-22 14:53:40 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:53:40 [INFO]: ✅ Database connected
+2025-09-22 14:53:40 [INFO]: ✅ Tables synced
+2025-09-22 14:53:40 [INFO]: 🚀 Server running on port 4000
+2025-09-22 14:53:54 [INFO]: ✅ Connected to MySQL with Sequelize!
+2025-09-22 14:53:54 [INFO]: ✅ Database connected
+2025-09-22 14:53:54 [INFO]: ✅ Tables synced
+2025-09-22 14:53:54 [INFO]: 🚀 Server running on port 4000
+2025-09-22 15:02:50 [WARN]: Invalid or expired token
+2025-09-22 15:02:50 [WARN]: Invalid or expired token
+2025-09-22 15:02:50 [INFO]: Refresh token renewed for user: yagnik@gmail.com
